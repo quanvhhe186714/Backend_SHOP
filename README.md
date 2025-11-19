@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MMO Store Backend API
 
 Backend API cho dự án tạp hóa MMO sử dụng Node.js, Express và MongoDB.
@@ -197,3 +198,6 @@ npm test
 ## 📧 Liên hệ
 
 Nếu có vấn đề hoặc câu hỏi, vui lòng tạo issue trên repository.
+=======
+# Backend_SHOP
+>>>>>>> 261cf64d9d74138785fd240389a6be3cff5233c3
